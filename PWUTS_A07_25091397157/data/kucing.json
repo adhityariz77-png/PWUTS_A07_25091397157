@@ -1,0 +1,1263 @@
+[
+ {
+  "id": 1,
+  "kode": "KTT-01",
+  "nama": "Belang",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "FISIPOL",
+  "ciri": [
+   "Pakai kalung",
+   "Ekor setengah",
+   "Dipanggil belang noleh"
+  ],
+  "foto": "img/kucing/KTT-01.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 2,
+  "kode": "KTT-02",
+  "nama": "Oyen Ganteng",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "FISIPOL",
+  "ciri": [
+   "Badan putih ekor oren"
+  ],
+  "foto": "img/kucing/KTT-02.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 3,
+  "kode": "KTT-03",
+  "nama": "Yaya",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "FISIPOL",
+  "ciri": [
+   "Belang tiga campur",
+   "Ekor setengah",
+   "Takut manusia"
+  ],
+  "foto": "img/kucing/KTT-03.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 4,
+  "kode": "KTT-04",
+  "nama": "Celli",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Perbatasan FISIPOL-FEB",
+  "ciri": [
+   "Belang tiga banyak hitam",
+   "Ekor setengah"
+  ],
+  "foto": "img/kucing/KTT-04.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 5,
+  "kode": "KTT-05",
+  "nama": "Lolly",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "FEB",
+  "ciri": [
+   "Belang tiga campur",
+   "Ekor panjang",
+   "Tidurnya di BTN"
+  ],
+  "foto": "img/kucing/KTT-05.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 6,
+  "kode": "KTT-06",
+  "nama": "Om Coklat",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "FEB",
+  "ciri": [
+   "Motif marble coklat",
+   "Ekor panjang",
+   "Kadang tidur di BTN"
+  ],
+  "foto": "img/kucing/KTT-06.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 7,
+  "kode": "KTT-07",
+  "nama": "Om Abu",
+  "jk": "Jantan",
+  "steril": "Belum steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "FEB",
+  "ciri": [
+   "Badan kekar abu putih",
+   "Ekor setengah"
+  ],
+  "foto": "img/kucing/KTT-07.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 8,
+  "kode": "KTT-08",
+  "nama": "Febri",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "FEB",
+  "ciri": [
+   "Belang tiga campur",
+   "Ekor panjang",
+   "FEB sebrang Tenis"
+  ],
+  "foto": "img/kucing/KTT-08.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 9,
+  "kode": "KTT-09",
+  "nama": "Brownis",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Fakultas Hukum",
+  "ciri": [
+   "Dipanggil brownies noleh"
+  ],
+  "foto": "img/kucing/KTT-09.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 10,
+  "kode": "KTT-10",
+  "nama": "Boni",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Food Court (FC)",
+  "ciri": [
+   "Biasanya ke Danau"
+  ],
+  "foto": "img/kucing/KTT-10.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 11,
+  "kode": "KTT-11",
+  "nama": "Puyo",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Food Court (FC)",
+  "ciri": [],
+  "foto": "img/kucing/KTT-11.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 12,
+  "kode": "KTT-12",
+  "nama": "Kaki Tiga",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Diadopsi",
+  "kampus": "Ketintang",
+  "lokasi": "Food Court (FC)",
+  "ciri": [
+   "Selalu di dalam FC lama"
+  ],
+  "foto": "img/kucing/KTT-12.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 13,
+  "kode": "KTT-13",
+  "nama": "Annisa",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Food Court (FC)",
+  "ciri": [
+   "Belang tiga",
+   "Ekor panjang"
+  ],
+  "foto": "img/kucing/KTT-13.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 14,
+  "kode": "KTT-14",
+  "nama": "Miko",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Miko",
+  "ciri": [],
+  "foto": "img/kucing/KTT-14.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 15,
+  "kode": "KTT-15",
+  "nama": "Cerry",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Ekor sangat pendek",
+   "Selalu di danau"
+  ],
+  "foto": "img/kucing/KTT-15.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 16,
+  "kode": "KTT-16",
+  "nama": "Kimo",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Mata agak juling",
+   "Warna abu muda bercampur putih"
+  ],
+  "foto": "img/kucing/KTT-16.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 17,
+  "kode": "KTT-17",
+  "nama": "Sinyo",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Abu muda dan putih",
+   "Mata sipit"
+  ],
+  "foto": "img/kucing/KTT-17.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 18,
+  "kode": "KTT-18",
+  "nama": "Bocil",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Ekor setengah",
+   "Oren dan putih",
+   "Selalu di danau"
+  ],
+  "foto": "img/kucing/KTT-18.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 19,
+  "kode": "KTT-19",
+  "nama": "Farrel",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Badannya gagah kalau jalan",
+   "Dipanggil farel noleh"
+  ],
+  "foto": "img/kucing/KTT-19.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 20,
+  "kode": "KTT-20",
+  "nama": "Dobby",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Dipanggil dobby noleh",
+   "Tinggal di area stupid chicken"
+  ],
+  "foto": "img/kucing/KTT-20.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 21,
+  "kode": "KTT-21",
+  "nama": "Moci",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Full abu kecuali area perut",
+   "Ekor panjang",
+   "Biasanya di dalam FC"
+  ],
+  "foto": "img/kucing/KTT-21.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 22,
+  "kode": "KTT-22",
+  "nama": "Kubo",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Ekor panjang",
+   "Friendly ke manusia",
+   "Selalu di danau"
+  ],
+  "foto": "img/kucing/KTT-22.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 23,
+  "kode": "KTT-23",
+  "nama": "Cemong",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Ekor setengah warna abu",
+   "Friendly ke manusia",
+   "Selalu di danau"
+  ],
+  "foto": "img/kucing/KTT-23.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 24,
+  "kode": "KTT-24",
+  "nama": "Bleki",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Badan dan ekor full hitam",
+   "Suka jalan agak jauh"
+  ],
+  "foto": "img/kucing/KTT-24.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 25,
+  "kode": "KTT-25",
+  "nama": "Cumil",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Agak galak",
+   "Badan gendut",
+   "Selalu di danau"
+  ],
+  "foto": "img/kucing/KTT-25.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 26,
+  "kode": "KTT-26",
+  "nama": "Nela",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau",
+  "ciri": [
+   "Full putih agak krem"
+  ],
+  "foto": "img/kucing/KTT-26.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 27,
+  "kode": "KTT-27",
+  "nama": "Siti",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau depan Masjid",
+  "ciri": [],
+  "foto": "img/kucing/KTT-27.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 28,
+  "kode": "KTT-28",
+  "nama": "Soleha",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Hilang",
+  "kampus": "Ketintang",
+  "lokasi": "Masjid samping Biologi",
+  "ciri": [
+   "Belang tiga",
+   "Ekor panjang",
+   "Bulu panjang",
+   "Kadang ke danau masjid"
+  ],
+  "foto": "img/kucing/KTT-28.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 29,
+  "kode": "KTT-29",
+  "nama": "Curros",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Masjid samping Biologi",
+  "ciri": [
+   "Badan putih dan abu",
+   "Ekor panjang",
+   "Bulu panjang",
+   "Kadang ke danau masjid",
+   "Kos Alyssa"
+  ],
+  "foto": "img/kucing/KTT-29.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 30,
+  "kode": "KTT-30",
+  "nama": "Bella",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau depan FMIPA",
+  "ciri": [
+   "Hitam ada sedikit putih di leher",
+   "Ekor sangat pendek",
+   "Dipanggil Bella noleh"
+  ],
+  "foto": "img/kucing/KTT-30.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 31,
+  "kode": "KTT-31",
+  "nama": "Lilly",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Danau depan FMIPA",
+  "ciri": [
+   "Badan putih, telinga hitam",
+   "Ekor setengah warna hitam",
+   "Dipanggil Lilly noleh"
+  ],
+  "foto": "img/kucing/KTT-31.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 32,
+  "kode": "KTT-32",
+  "nama": "Sapi",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Teknik (ATM)",
+  "ciri": [
+   "Putih dan abu",
+   "Badan gendut sekali"
+  ],
+  "foto": "img/kucing/KTT-32.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 33,
+  "kode": "KTT-33",
+  "nama": "Marki",
+  "jk": "Jantan",
+  "steril": "Belum tercatat",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Teknik (ATM)",
+  "ciri": [
+   "Hitam dan putih",
+   "Ekor setengah",
+   "Wajahnya cowok banget"
+  ],
+  "foto": "img/kucing/KTT-33.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 34,
+  "kode": "KTT-34",
+  "nama": "Taro",
+  "jk": "Betina",
+  "steril": "Belum tercatat",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Teknik (ATM)",
+  "ciri": [
+   "Hitam dan sedikit putih",
+   "Ekor panjang",
+   "Kadang ke parkiran teknik"
+  ],
+  "foto": "img/kucing/KTT-34.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 35,
+  "kode": "KTT-35",
+  "nama": "Ciro",
+  "jk": "Jantan",
+  "steril": "Belum tercatat",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Teknik (ATM)",
+  "ciri": [
+   "Anak taro",
+   "Hitam dan sedikit putih",
+   "Ekor pendek",
+   "Kadang ke parkiran teknik"
+  ],
+  "foto": "img/kucing/KTT-35.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 36,
+  "kode": "KTT-36",
+  "nama": "Leli",
+  "jk": "Betina",
+  "steril": "Belum tercatat",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Teknik (ATM)",
+  "ciri": [
+   "Belang tiga campur abu2",
+   "Ekor panjang",
+   "Paling galak dari yg lain wkwk"
+  ],
+  "foto": "img/kucing/KTT-36.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 37,
+  "kode": "KTT-37",
+  "nama": "Kalesi",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Teknik (ATM)",
+  "ciri": [
+   "Belang tiga campur",
+   "Ekor panjang",
+   "Suka ngomel",
+   "Kadang di depan SIPIL"
+  ],
+  "foto": "img/kucing/KTT-37.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 38,
+  "kode": "KTT-38",
+  "nama": "Fika",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Telah tiada",
+  "kampus": "Ketintang",
+  "lokasi": "Fisika",
+  "ciri": [
+   "Ibu fiki",
+   "Belang tiga",
+   "Ekor setengah",
+   "Dipanggil Fika noleh"
+  ],
+  "foto": "img/kucing/KTT-38.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 39,
+  "kode": "KTT-39",
+  "nama": "Fiki",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Fisika",
+  "ciri": [
+   "Anak fika",
+   "Abu tua dan putih",
+   "Ekor setengah",
+   "Dipanggil Fiki noleh"
+  ],
+  "foto": "img/kucing/KTT-39.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 40,
+  "kode": "KTT-40",
+  "nama": "Molly",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Teknik Sains Data",
+  "ciri": [
+   "Dipanggil Molly noleh",
+   "Badan hitam",
+   "Ekor setengah"
+  ],
+  "foto": "img/kucing/KTT-40.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 41,
+  "kode": "KTT-41",
+  "nama": "Upin",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Samping Elektro",
+  "ciri": [
+   "Ekor panjang",
+   "Warna abu dan putih"
+  ],
+  "foto": "img/kucing/KTT-41.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 42,
+  "kode": "KTT-42",
+  "nama": "Ipin",
+  "jk": "Jantan",
+  "steril": "Belum steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Samping Elektro",
+  "ciri": [
+   "Ekor pendek",
+   "Warna oren dan putih"
+  ],
+  "foto": "img/kucing/KTT-42.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 43,
+  "kode": "KTT-43",
+  "nama": "Teman Mereka",
+  "jk": "Betina",
+  "steril": "Belum steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Samping Elektro",
+  "ciri": [
+   "Ekor pendek",
+   "Belang tiga",
+   "Agak cerewet"
+  ],
+  "foto": "img/kucing/KTT-43.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 44,
+  "kode": "KTT-44",
+  "nama": "Cika",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Diadopsi",
+  "kampus": "Ketintang",
+  "lokasi": "Depan Gedung IDB",
+  "ciri": [
+   "Belang tiga",
+   "Ekor pendek badan kecil"
+  ],
+  "foto": "img/kucing/KTT-44.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 45,
+  "kode": "KTT-45",
+  "nama": "Otto",
+  "jk": "Jantan",
+  "steril": "Belum tercatat",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Depan Gedung IDB",
+  "ciri": [
+   "Abu dan sedikit putih",
+   "Ekor panjang",
+   "Kadang ke unipress dan jogkim",
+   "Dipanggil Otto noleh"
+  ],
+  "foto": "img/kucing/KTT-45.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 46,
+  "kode": "KTT-46",
+  "nama": "Cakue",
+  "jk": "Jantan",
+  "steril": "Belum steril",
+  "status": "Hilang",
+  "kampus": "Ketintang",
+  "lokasi": "Depan Gedung IDB",
+  "ciri": [
+   "Ekor setengah",
+   "Takut manusia",
+   "Badan putih ekor hitam"
+  ],
+  "foto": "img/kucing/KTT-46.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 47,
+  "kode": "KTT-47",
+  "nama": "Noni",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Belang tiga pastel campur",
+   "Ekor setengah",
+   "Pakai kalung bernama",
+   "Introvert"
+  ],
+  "foto": "img/kucing/KTT-47.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 48,
+  "kode": "KTT-48",
+  "nama": "Jena",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Corak oren marble",
+   "Ekor panjang",
+   "Pakai kalung bernama",
+   "Introvert"
+  ],
+  "foto": "img/kucing/KTT-48.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 49,
+  "kode": "KTT-49",
+  "nama": "Orenji",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Corak oren marble",
+   "Selalu di parkiran FMIPA"
+  ],
+  "foto": "img/kucing/KTT-49.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 50,
+  "kode": "KTT-50",
+  "nama": "Sabi",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Corak oren muda dan putih",
+   "Takut manusia",
+   "Ekor panjang"
+  ],
+  "foto": "img/kucing/KTT-50.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 51,
+  "kode": "KTT-51",
+  "nama": "Roti",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Diadopsi",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Belang tiga",
+   "Selalu di Joglo Kimia",
+   "Pakai kalung bernama",
+   "Ekor panjang badan kurus"
+  ],
+  "foto": "img/kucing/KTT-51.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 52,
+  "kode": "KTT-52",
+  "nama": "Jeliteng",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Full abu mujaer",
+   "Ekor panjang"
+  ],
+  "foto": "img/kucing/KTT-52.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 53,
+  "kode": "KTT-53",
+  "nama": "Ibu Nya Tiren",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Belang tiga, coklat muda dan kuning",
+   "Ekor panjang"
+  ],
+  "foto": "img/kucing/KTT-53.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 54,
+  "kode": "KTT-54",
+  "nama": "Tiren",
+  "jk": "Betina",
+  "steril": "Belum tercatat",
+  "status": "Diadopsi",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Masih kecil",
+   "Ekor pendek",
+   "Selalu di jogkim"
+  ],
+  "foto": "img/kucing/KTT-54.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 55,
+  "kode": "KTT-55",
+  "nama": "Keju",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Badan oren ekor pendek",
+   "Agak introvert"
+  ],
+  "foto": "img/kucing/KTT-55.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 56,
+  "kode": "KTT-56",
+  "nama": "Poca",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Hitam dan putih",
+   "Ekor pendek",
+   "Tidak mau dipegang"
+  ],
+  "foto": "img/kucing/KTT-56.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 57,
+  "kode": "KTT-57",
+  "nama": "Dini",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "Joglo Kimia",
+  "ciri": [
+   "Belang tiga",
+   "Mau dekat manusia tapi tidak mau dipegang"
+  ],
+  "foto": "img/kucing/KTT-57.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 58,
+  "kode": "KTT-58",
+  "nama": "Mia",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "UNESA Press",
+  "ciri": [
+   "Belang tiga",
+   "Ekor panjang",
+   "Suara kecil"
+  ],
+  "foto": "img/kucing/KTT-58.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 59,
+  "kode": "KTT-59",
+  "nama": "Cimeng",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "UNESA Press",
+  "ciri": [
+   "Steril, anak mia",
+   "Full abu",
+   "Ekor panjang",
+   "Agak takut manusia"
+  ],
+  "foto": "img/kucing/KTT-59.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 60,
+  "kode": "KTT-60",
+  "nama": "Dory",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Ketintang",
+  "lokasi": "UNESA Press",
+  "ciri": [
+   "Belang tiga banyak putihnya",
+   "Ekor panjang",
+   "Kadang ke jogkim",
+   "Dipanggil dory noleh"
+  ],
+  "foto": "img/kucing/KTT-60.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 61,
+  "kode": "KTT-61",
+  "nama": "Lili",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Diadopsi",
+  "kampus": "Ketintang",
+  "lokasi": "UNESA Press",
+  "ciri": [
+   "Belang tiga banyak putihnya",
+   "Ekor panjang",
+   "Kadang ke jogkim",
+   "Dipanggil dory noleh"
+  ],
+  "foto": "img/kucing/KTT-61.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 62,
+  "kode": "LDH-01",
+  "nama": "Jojo",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FIP",
+  "ciri": [
+   "Di Kantin"
+  ],
+  "foto": "img/kucing/LDH-01.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 63,
+  "kode": "LDH-02",
+  "nama": "Miso",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FIP",
+  "ciri": [
+   "Di Kantin"
+  ],
+  "foto": "img/kucing/LDH-02.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 64,
+  "kode": "LDH-03",
+  "nama": "Lala",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FIP",
+  "ciri": [
+   "Suka pindah² tapi sering di kantin"
+  ],
+  "foto": "img/kucing/LDH-03.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 65,
+  "kode": "LDH-04",
+  "nama": "Lulu",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FIP",
+  "ciri": [
+   "Di pendopo ki hajar"
+  ],
+  "foto": "img/kucing/LDH-04.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 66,
+  "kode": "LDH-05",
+  "nama": "Bolu",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FIP",
+  "ciri": [
+   "Di gedung PLB"
+  ],
+  "foto": "img/kucing/LDH-05.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 67,
+  "kode": "LDH-06",
+  "nama": "Kismis",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FIP",
+  "ciri": [
+   "Di pos satpam"
+  ],
+  "foto": "img/kucing/LDH-06.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 68,
+  "kode": "LDH-07",
+  "nama": "Malika",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FIP",
+  "ciri": [
+   "Di pos satpam"
+  ],
+  "foto": "img/kucing/LDH-07.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 69,
+  "kode": "LDH-08",
+  "nama": "Milo",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FIP",
+  "ciri": [
+   "Di gedung BK",
+   "Kalau di ecek-ecek/dipanggil langsung datang"
+  ],
+  "foto": "img/kucing/LDH-08.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 70,
+  "kode": "LDH-09",
+  "nama": "Sulis",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FBS",
+  "ciri": [
+   "T3-t4-t8",
+   "Dipanggil sulis datang",
+   "Ekor panjang"
+  ],
+  "foto": "img/kucing/LDH-09.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 71,
+  "kode": "LDH-10",
+  "nama": "Nori",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FBS",
+  "ciri": [
+   "T3-t4-t8",
+   "Dipanggil nori datang",
+   "Gak mau digendong"
+  ],
+  "foto": "img/kucing/LDH-10.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 72,
+  "kode": "LDH-11",
+  "nama": "Jahe",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FBS",
+  "ciri": [
+   "T4-t8",
+   "Badan gemuk"
+  ],
+  "foto": "img/kucing/LDH-11.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 73,
+  "kode": "LDH-12",
+  "nama": "Cimeng",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FBS",
+  "ciri": [
+   "T1-pendopo",
+   "Dipanggil cimeng/kipli datang",
+   "Badan full abu"
+  ],
+  "foto": "img/kucing/LDH-12.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 74,
+  "kode": "LDH-13",
+  "nama": "Morris",
+  "jk": "Jantan",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "FBS",
+  "ciri": [
+   "FBS T8 (Sulis, Nori, Jahe)",
+   "Kalau diecek² langsung datang",
+   "Kepalanya agak miring"
+  ],
+  "foto": "img/kucing/LDH-13.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 75,
+  "kode": "LDH-14",
+  "nama": "Oyen",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "Labmer",
+  "ciri": [
+   "Dipanggil oyen oyen dateng",
+   "Badan oren dan putih"
+  ],
+  "foto": "img/kucing/LDH-14.jpg",
+  "bisa_diajukan": true
+ },
+ {
+  "id": 76,
+  "kode": "LDH-15",
+  "nama": "Jerry",
+  "jk": "Jantan",
+  "steril": "Belum steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "Labmer",
+  "ciri": [
+   "Anak oyen",
+   "Badan oren full"
+  ],
+  "foto": "img/kucing/LDH-15.jpg",
+  "bisa_diajukan": false
+ },
+ {
+  "id": 77,
+  "kode": "LDH-16",
+  "nama": "Syahrini",
+  "jk": "Betina",
+  "steril": "Sudah steril",
+  "status": "Terdata",
+  "kampus": "Lidah Wetan",
+  "lokasi": "Rektorat",
+  "ciri": [],
+  "foto": "img/kucing/LDH-16.jpg",
+  "bisa_diajukan": true
+ }
+]

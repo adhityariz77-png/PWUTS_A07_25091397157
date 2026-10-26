@@ -1,0 +1,23 @@
+<header class="page-head">
+  <img class="deco deco-a" src="img/brand/head-white.png" alt="">
+  <img class="deco deco-b" src="img/brand/head-yellow.png" alt="">
+  <div class="wrap"><h1>Katalog kucing kampus</h1>
+  <p>Kucing kampus yang terdata dalam presensi Jaga Satwa UNESA. Cari berdasarkan nama, kode, atau lokasi.</p></div>
+</header>
+<div class="wrap block">
+<div class="toolbar">
+  <input type="search" id="cari" placeholder="Cari nama, KTT-01, lokasi, ciri…" aria-label="Cari kucing">
+  <select id="lokasi" aria-label="Filter lokasi"><option value="">Semua lokasi</option></select>
+</div>
+<div class="toolbar" role="group" aria-label="Filter kucing">
+  <button class="chip on" data-f="semua">Semua</button>
+  <button class="chip" data-f="ajukan">Bisa diajukan adopsi</button>
+  <button class="chip" data-f="Ketintang">Kampus Ketintang</button>
+  <button class="chip" data-f="Lidah Wetan">Kampus Lidah Wetan</button>
+  <button class="chip" data-f="Diadopsi">Sudah diadopsi</button>
+</div>
+<p id="jumlah" class="hint" aria-live="polite"></p>
+<div id="grid" class="grid"></div>
+<p style="text-align:center"><button class="btn ghost" id="lagi" style="display:none">Tampilkan lebih banyak</button></p>
+</div>
+<div class="modal" id="modal" role="dialog" aria-modal="true"><div class="box"><div id="m-isi"></div><p><button class="btn" id="m-tutup">Tutup</button></p></div></div>
