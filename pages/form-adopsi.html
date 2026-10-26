@@ -1,0 +1,28 @@
+<header class="page-head">
+  <img class="deco deco-a" src="img/brand/head-white.png" alt="">
+  <img class="deco deco-b" src="img/brand/head-yellow.png" alt="">
+  <div class="wrap"><h1>Formulir pengajuan adopsi</h1>
+  <p>Proses adopsi gratis. Isi data dengan benar; relawan akan menghubungi lewat WhatsApp.</p></div>
+</header>
+<div class="wrap block form-wrap">
+<div class="form-side"><img src="img/brand/cat.png" alt=""></div>
+<div class="form-main">
+<form id="form-adopsi" class="adopsi" novalidate>
+  <div class="field"><label for="id_kucing">Kucing yang diajukan *</label>
+    <select id="id_kucing" name="id_kucing"><option value="">Pilih kucing</option></select><div class="msg"></div></div>
+  <div class="field"><label for="nama_pemohon">Nama lengkap *</label>
+    <input id="nama_pemohon" name="nama_pemohon" type="text" maxlength="100" placeholder="Contoh: Amanda Sekar Kinanti"><div class="msg"></div></div>
+  <div class="field"><label for="nomor_whatsapp">Nomor WhatsApp *</label>
+    <input id="nomor_whatsapp" name="nomor_whatsapp" type="tel" maxlength="16" placeholder="08123456789"><div class="msg"></div></div>
+  <div class="field"><label for="email">Email *</label>
+    <input id="email" name="email" type="email" maxlength="150" placeholder="nama@email.com"><div class="msg"></div></div>
+  <div class="field"><label for="jenis_hunian">Jenis tempat tinggal *</label>
+    <select id="jenis_hunian" name="jenis_hunian"><option value="">Pilih jenis tempat tinggal</option><option>Rumah pribadi</option><option>Kos (diizinkan pemilik)</option><option>Apartemen</option></select><div class="msg"></div></div>
+  <div class="field"><label for="alamat">Alamat tempat tinggal kucing *</label>
+    <textarea id="alamat" name="alamat" rows="3" placeholder="Jalan, RT/RW, kelurahan, kota"></textarea><div class="msg"></div></div>
+  <div class="field"><label><input type="checkbox" name="komitmen" style="width:auto"> Saya berkomitmen merawat kucing seumur hidup, memeliharanya di dalam ruangan, dan bersedia dikunjungi relawan. *</label><div class="msg"></div></div>
+  <button type="submit" class="btn" id="btn-kirim">Kirim pengajuan</button>
+</form>
+<div id="hasil" aria-live="polite"></div>
+</div>
+</div>
